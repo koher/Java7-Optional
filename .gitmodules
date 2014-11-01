@@ -1,0 +1,3 @@
+[submodule "Java-Validation"]
+	path = Java-Validation
+	url = https://github.com/koher/Java-Validation.git
